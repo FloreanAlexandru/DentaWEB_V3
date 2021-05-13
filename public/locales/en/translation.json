@@ -1,0 +1,182 @@
+{
+    "Acasă":{
+        "1":"Home"
+    },
+    "Noutăți":{
+        "1":"News"
+    },
+    "Despre noi":{
+        "1":"About us"
+    },
+    "Medici":{
+        "1":"Doctors"
+    },
+    "Servicii și Tarife":{
+        "1":"Services and Prices"
+    },
+    "Contact":{
+        "1":"Contact"
+    },
+    "Română":{
+        "1":"Romanian"
+    },
+    "Engleză":{
+        "1":"English"
+    },
+    "Germană":{
+        "1":"German"
+    },
+    "titluH":{
+        "1":"Welcome to DentalWEB"
+    },
+    "stitluH":{
+        "1":"Get out of DentalWEB with a healthy smile!"
+    },
+    "titluN":{
+        "1":"News"
+    },
+    "stn1":{
+        "1":"Dental aesthetics"
+    },
+    "stn2":{
+        "1":"Implantology"
+    },
+    "stn3":{
+        "1":"Orthodontics"
+    },
+    "pn1":{
+        "1":"In our clinic we offer solutions for dental aesthetics such as: inlays, dental veneers, dental jewelry, teeth whitening, etc."
+    },
+    "pn2":{
+        "1":"The dental implant is the safest, most aesthetic and functional intervention if we have a dental gap."
+    },
+    "pn3":{
+        "1":"The straightening and alignment of the teeth is a very important part of the aesthetics and last but not least, of the functionality of the dental arches."
+    },
+    "titluDN":{
+        "1":"About us"
+    },
+    "pDN1":{
+        "1":"Our vision is to increase people's quality of life through prevention, treatment and education to achieve oral health."
+    },
+    "pDN2":{
+        "1":"Like you, I personally have been a patient."
+    },
+    "pDN3":{
+        "1":"First of all, I am looking for the professionalism of the medical act."
+    },
+    "pDN4":{
+        "1":"Secondly, I am looking for safety and comfort."
+    },
+    "pDN5":{
+        "1":"I want to receive evidence such as the use of sterilized instruments, to be in a sanitized space, according to health standards, the risk of getting other diseases does not exist."
+    },
+    "pDN6":{
+        "1":"I want to be protected from unpleasant odors specific to dentistry and to be present in a friendly environment."
+    },
+    "pDN7":{
+        "1":"Starting from this vision, we build this reality step by step. Our activities are subject to the requirements of ISO 9001."
+    },
+    "pDN8":{
+        "1":"Thus, the team is continuously filtered based on these moral values."
+    },
+    "pDN9":{
+        "1":"Therefore, I believe that for this chapter, dedicated resources must be allocated constantly at the expense of the temptation to consume them in salaries or commissions."
+    },
+    "pDN10":{
+        "1":"I also believe that my mission as a doctor is to share the experience gained with the next generation of doctors and to benefit the next generation of patients, respectively."
+    },
+    "pDN11":{
+        "1":"Thank you for your interest in the clinic's services and we assure you that our efforts are focused on the continuous improvement of medical services."
+    },
+    "titluM":{
+        "1":"Doctors"
+    },
+    "stM":{
+        "1":"Specialization"
+    },
+    "sp1":{
+        "1":"Dento-alveolar surgery"
+    },
+    "sp2":{
+        "1":"Orthodontics and dento-facial orthopedics"
+    },
+    "sp3":{
+        "1":"Endodontics"
+    },
+    "sp4":{
+        "1":"General dentistry"
+    },
+    "sp5":{
+        "1":"Prosthetic dentistry"
+    },
+    "sp6":{
+        "1":"Pedodontics"
+    },
+    "sp7":{
+        "1":"Dental and maxillofacial surgery"
+    },
+    "sp8":{
+        "1":"Periodontology"
+    },
+    "no":{
+        "1":"Number"
+    },
+    "servc":{
+        "1":"Service"
+    },
+    "pret":{
+        "1":"Price"
+    },
+    "no1":{
+        "1":"Primary consultation"
+    },
+    "pr1":{
+        "1":"Free"
+    },
+    "no2":{
+        "1":"Prophylactic treatments"
+    },
+    "pr2":{
+        "1":"Between 60-200 RON"
+    },
+    "no3":{
+        "1":"Fillings / Caries treatments"
+    },
+    "pr3":{
+        "1":"Between 100-200 RON"
+    },
+    "no4":{
+        "1":"Endodontic treatment"
+    },
+    "pr4":{
+        "1":"Between 50-350 RON"
+    },
+    "no5":{
+        "1":"Prosthodontics"
+    },
+    "pr5":{
+        "1":"Between 100-2000 RON"
+    },
+    "no6":{
+        "1":"Dento-Alveolar Surgery"
+    },
+    "pr6":{
+        "1":"Between 50-250 RON"
+    },
+    "no7":{
+        "1":"Tooth whitening"
+    },
+    "pr7":{
+        "1":"Between 200-600 RON"
+    },
+    "no8":{
+        "1":"Pedodontics"
+    },
+    "pr8":{
+        "1":"Between 60-100 RON"
+    },
+    "calendar":{
+        "1":"Monday - Friday"
+    }
+}

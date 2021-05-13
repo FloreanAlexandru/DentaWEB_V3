@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding='utf-8'?>
+<newsXML>
+
+    <news>
+    <title> stn1.1 </title>
+    <text> pn1.1</text>
+    </news>
+
+    <news>
+    <title> stn2.1 </title>
+    <text> pn2.1</text>
+    </news>
+
+    <news>
+    <title> stn3.1 </title>
+    <text> pn3.1</text>
+    </news>
+
+</newsXML>

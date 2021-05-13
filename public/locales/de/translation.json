@@ -1,0 +1,182 @@
+{
+    "Acasă":{
+        "1":"Hause"
+    },
+    "Noutăți":{
+        "1":"Nachrichten"
+    },
+    "Despre noi":{
+        "1":"Über uns"
+    },
+    "Medici":{
+        "1":"Ärzte"
+    },
+    "Servicii și Tarife":{
+        "1":"Dienstleistungen und Preise"
+    },
+    "Contact":{
+        "1":"Kontakt"
+    },
+    "Română":{
+        "1":"Rumänien"
+    },
+    "Engleză":{
+        "1":"Englisch"
+    },
+    "Germană":{
+        "1":"Deutsch"
+    },
+    "titluH":{
+        "1":"Willkommen zu DentalWEB"
+    },
+    "stitluH":{
+        "1":"Verlassen Sie DentalWEB mit einem gesunden Lächeln!"
+    },
+    "titluN":{
+        "1":"Nachrichten"
+    },
+    "stn1":{
+        "1":"Zahnästhetik"
+    },
+    "stn2":{
+        "1":"Implantologie"
+    },
+    "stn3":{
+        "1":"Kieferorthopädie"
+    },
+    "pn1":{
+        "1":"In unserer Klinik bieten wir Lösungen für die Zahnästhetik an, wie z. B.: Inlays, Dentalveneers, Zahnschmuck, Zahnaufhellung usw."
+    },
+    "pn2":{
+        "1":"Das Zahnimplantat ist der sicherste, ästhetischste und funktionellste Eingriff, wenn wir eine Zahnlücke haben."
+    },
+    "pn3":{
+        "1":"Das Richten und Ausrichten der Zähne ist ein sehr wichtiger Teil der Ästhetik und nicht zuletzt der Funktionalität der Zahnbögen."
+    },
+    "titluDN":{
+        "1":"Über uns"
+    },
+    "pDN1":{
+        "1":"Unsere Vision ist es, die Lebensqualität der Menschen durch Prävention, Behandlung und Aufklärung zu verbessern, um Mundgesundheit zu erreichen."
+    },
+    "pDN2":{
+        "1":"Wie Sie war ich persönlich ein Patient."
+    },
+    "pDN3":{
+        "1":"Zunächst suche ich die Professionalität des medizinischen Aktes."
+    },
+    "pDN4":{
+        "1":"Zweitens suche ich Sicherheit und Komfort."
+    },
+    "pDN5":{
+        "1":"Ich möchte Beweise wie die Verwendung von sterilisierten Instrumenten erhalten, um in einem sanitären Raum zu sein, gemäß den Gesundheitsstandards, das Risiko, dass andere Krankheiten nicht existieren."
+    },
+    "pDN6":{
+        "1":"Ich möchte vor unangenehmen zahnmedizinischen Gerüchen geschützt werden und in einer möglichst freundlichen Umgebung präsent sein."
+    },
+    "pDN7":{
+        "1":"Ausgehend von dieser Vision bauen wir diese Realität Schritt für Schritt auf. Unsere Aktivitäten unterliegen den Anforderungen der ISO 9001."
+    },
+    "pDN8":{
+        "1":"Somit wird das Team kontinuierlich anhand dieser moralischen Werte gefiltert."
+    },
+    "pDN9":{
+        "1":"Daher glaube ich, dass für dieses Kapitel dedizierte Ressourcen ständig auf Kosten der Versuchung zugewiesen werden müssen, sie in Gehältern oder Provisionen zu verbrauchen."
+    },
+    "pDN10":{
+        "1":"Ich glaube auch, dass meine Mission als Arzt darin besteht, die gesammelten Erfahrungen mit der nächsten Generation von Ärzten zu teilen und der nächsten Generation von Patienten zu helfen."
+    },
+    "pDN11":{
+        "1":"Vielen Dank für Ihr Interesse an den Leistungen der Klinik und wir versichern Ihnen, dass sich unsere Bemühungen auf die kontinuierliche Verbesserung der medizinischen Leistungen konzentrieren."
+    },
+    "titluM":{
+        "1":"Ärzte"
+    },
+    "stM":{
+        "1":"Spezialisierung"
+    },
+    "sp1":{
+        "1":"Dentoalveoläre Chirurgie"
+    },
+    "sp2":{
+        "1":"Kieferorthopädie und Dento-Gesichtsorthopädie"
+    },
+    "sp3":{
+        "1":"Endodontie"
+    },
+    "sp4":{
+        "1":"Allgemeine Zahnmedizin"
+    },
+    "sp5":{
+        "1":"Prothetische Zahnheilkunde"
+    },
+    "sp6":{
+        "1":"Pädodontie"
+    },
+    "sp7":{
+        "1":"Zahn- und Kieferchirurgie"
+    },
+    "sp8":{
+        "1":"Parodontologie"
+    },
+    "no":{
+        "1":"Nummer"
+    },
+    "servc":{
+        "1":"Bedienung"
+    },
+    "pret":{
+        "1":"Preis"
+    },
+    "no1":{
+        "1":"Erstberatung"
+    },
+    "pr1":{
+        "1":"Kostenlos"
+    },
+    "no2":{
+        "1":"Prophylaktische Behandlungen"
+    },
+    "pr2":{
+        "1":"Zwischen 60-200 RON"
+    },
+    "no3":{
+        "1":"Füllungen / Kariesbehandlungen"
+    },
+    "pr3":{
+        "1":"Zwischen 100-200 RON"
+    },
+    "no4":{
+        "1":"Endodontische Behandlung"
+    },
+    "pr4":{
+        "1":"Zwischen 50-350 RON"
+    },
+    "no5":{
+        "1":"Prosthodontik"
+    },
+    "pr5":{
+        "1":"Zwischen 100-2000 RON"
+    },
+    "no6":{
+        "1":"Dento-Alveoläre Chirurgie"
+    },
+    "pr6":{
+        "1":"Zwischen 50-250 RON"
+    },
+    "no7":{
+        "1":"Zahnaufhellung"
+    },
+    "pr7":{
+        "1":"Zwischen 200-600 RON"
+    },
+    "no8":{
+        "1":"Pädodontie"
+    },
+    "pr8":{
+        "1":"Zwischen 60-100 RON"
+    },
+    "calendar":{
+        "1":"Montag - Freitag"
+    }
+}

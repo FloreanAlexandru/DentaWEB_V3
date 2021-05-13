@@ -1,0 +1,183 @@
+{
+    "Acasă":{
+        "1":"Acasă"
+    },
+    "Noutăți":{
+        "1":"Noutăți"
+    },
+    "Despre noi":{
+        "1":"Despre noi"
+    },
+    "Medici":{
+        "1":"Medici"
+    },
+    "Servicii și Tarife":{
+        "1":"Servicii și Tarfie"
+    },
+    "Contact":{
+        "1":"Contact"
+    },
+    "Română":{
+        "1":"Română"
+    },
+    "Engleză":{
+        "1":"Engleză"
+    },
+    "Germană":{
+        "1":"Germană"
+    },
+    "titluH":{
+        "1":"Bine ați venit la DentalWEB"
+    },
+    "stitluH":{
+        "1":"De la DentalWEB ieși cu zâmbetul sănătos !"
+    },
+    "titluN":{
+        "1":"Noutăți"
+    },
+    "stn1":{
+        "1":"Estetică dentară"
+    },
+    "stn2":{
+        "1":"Implantologie"
+    },
+    "stn3":{
+        "1":"Ortodonție"
+    },
+    "pn1":{
+        "1":"În cadrul clinicii noastre oferim soluții pentru estetica dentară precum: încrustații, fațete dentare, bijuterii dentare, albire dentară etc."
+    },
+    "pn2":{
+        "1":"Implantul dentar este cea mai sigură, estetică și funcțională intervenție în cazul în care avem o lacună dentară."
+    },
+    "pn3":{
+        "1":"Îndreptarea și alinierea dinților este o parte foarte importantă a esteticii și nu în ultimul rând, a funcționalității arcadelor dentare."
+    },
+    "titluDN":{
+        "1":"Despre noi"
+    },
+    "pDN1":{
+        "1":"Viziunea noastră este să crestem calitatea vieții oamenilor prin prevenție, tratament și educație pentru obținerea unei sănătăți orale."
+    },
+    "pDN2":{
+        "1":"Ca și dumneavoastră, și eu personal am fost în postura de pacient."
+    },
+    "pDN3":{
+        "1":"În primul rând, caut profesionalismul actului medical."
+    },
+    "pDN4":{
+        "1":"În al doilea rând, caut siguranță și confort."
+    },
+    "pDN5":{
+        "1":"Vreau să primesc dovezi precum folosirea unui instrumentar sterilizat, să fiu într-un spațiu igienizat, conform standardelor de sănătate, riscul de a lua alte boli să nu existe."
+    },
+    "pDN6":{
+        "1":"Îmi doresc să fiu ferită de mirosurile neplăcute specifice stomatologiei și să fiu prezentă într-un mediu cât mai prietenos."
+    },
+    "pDN7":{
+        "1":"Plecând de la această viziune, construim pas cu pas această realitate. Activitățile noastre sunt supuse cerințelor standardului ISO 9001."
+    },
+    "pDN8":{
+        "1":"Astfel, echipa este filtrată continuu în baza acestor valori morale."
+    },
+    "pDN9":{
+        "1":"De aceea, consider că pentru acest capitol, trebuie alocate resurse dedicate în mod constant în detrimentul tentației de a-i consuma în salarii sau comisioane."
+    },
+    "pDN10":{
+        "1":"De asemenea, eu cred că misiunea mea de doctor constă și în datoria de a împărtași din experienta acumulată generației urmatoare de medici și respectiv spre folosul următoarelor generații de pacienți."
+    },
+    "pDN11":{
+        "1":"Vă mulțumim pentru interesul acordat serviciilor clinicii și vă asigurăm că eforturile noastre sunt concentrate pe îmbunătățirea continuă a serviciilor medicale."
+    },
+    "titluM":{
+        "1":"Medici"
+    },
+    "stM":{
+        "1":"Specializări"
+    },
+    "sp1":{
+        "1":"Chirurgie dento-alveolară "
+    },
+    "sp2":{
+        "1":"Ortodonție și ortopedie dento-facială"
+    },
+    "sp3":{
+        "1":"Endodonție"
+    },
+    "sp4":{
+        "1":"Stomatologie generală"
+    },
+    "sp5":{
+        "1":"Protetică dentară"
+    },
+    "sp6":{
+        "1":"Pedodonție"
+    },
+    "sp7":{
+        "1":"Chirurgie stomatologică și maxilo-facială"
+    },
+    "sp8":{
+        "1":"Parodontologie"
+    },
+    "no":{
+        "1":"Număr"
+    },
+    "servc":{
+        "1":"Serviciu"
+    },
+    "pret":{
+        "1":"Preț"
+    },
+    "no1":{
+        "1":"Consultație primară"
+    },
+    "pr1":{
+        "1":"Gratuit"
+    },
+    "no2":{
+        "1":"Tratamente profilactice"
+    },
+    "pr2":{
+        "1":"Între 60-200 RON"
+    },
+    "no3":{
+        "1":"Obturații / Tratamente carie"
+    },
+    "pr3":{
+        "1":"Între 100-200 RON"
+    },
+    "no4":{
+        "1":"Tratamente endodontice"
+    },
+    "pr4":{
+        "1":"Între 50-350 RON"
+    },
+    "no5":{
+        "1":"Protetică"
+    },
+    "pr5":{
+        "1":"Între 100-2000 RON"
+    },
+    "no6":{
+        "1":"Chirurgie Dento-Alveolară"
+    },
+    "pr6":{
+        "1":"Între 50-250 RON"
+    },
+    "no7":{
+        "1":"Albire dentară"
+    },
+    "pr7":{
+        "1":"Între 200-600 RON"
+    },
+    "no8":{
+        "1":"Pedodonție"
+    },
+    "pr8":{
+        "1":"Între 60-100 RON"
+    },
+    "calendar":{
+        "1":"Luni - Vineri"
+    }
+    
+}

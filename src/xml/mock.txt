@@ -1,0 +1,72 @@
+let xml_Img;
+    // let data;
+    // let texts;
+    // let titles = [];
+
+
+    // fetch(xmlText)
+    // .then((response) =>response.text())
+    // .then((xmlText) => {
+    //     console.log("WorkingTillHere",xmlText)
+    //     xml_Img = new XMLParser().parseFromString(xmlText); 
+    //     console.log(xml_Img);
+    // }) .catch((error) => {
+    //     console.log("ParserEx",error);
+    // });
+
+//    fetch(xmlText)
+//   .then(response => response.text())
+//   .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+//   .then(data => {
+//       debugger;
+//     console.log(data);
+//     const items = data.querySelectorAll("news");
+//     let html = ``;
+//     items.forEach(el => {
+//       html += `
+//         <article>
+//           <h3 className="new1"> ${el.querySelector("title")}</h3>
+//             <p> ${el.querySelector("text")}</p>
+//         </article>
+//       `;
+//     });
+//     document.body.insertAdjacentHTML("beforeend", html);
+//   });
+
+    // fetch(xmlText)
+    // .then(response => response.text())
+    // .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+    // .then(data => {
+    //     console.log(data);
+    //     var items = data.getElementsByTagName("title");
+    //     for(let i=0;i<items.length;i++){
+    //         console.log(items[i]);
+    //     }
+    //     console.log(titles);
+    // });
+    
+    // var XMLParser = require('react-xml-parser');
+    // var xml = new XMLParser().parseFromString(xmlText);    // Assume xmlText contains the example XML
+    // console.log(xml);
+    // console.log(xml.getElementsByTagName('title'));
+
+
+    // let xmlContent = '';
+    // // let news = document.getElementByTagName("h3");
+    // // let titles = document.getElementByTagName("p");
+    // fetch(xmlText).then((response)=>{
+    //     response.text().then((xml)=>{
+    //         let parser = new DOMParser();
+    //         let xmlDOM = parser.parseFromString(xmlContent,'text/xml');
+    //         let newsList = xmlDOM.querySelectorAll('news');
+    //         console.log(newsList);
+
+    //         newsList.forEach(newsXmlNode => {
+    //             let x = document.createElement('div');
+
+    //             let y = document.createElement('h3');
+    //             y.innerText = newsXmlNode.children[0].innerHTML;
+    //             x.appendChild(y);
+    //         });
+    //     });
+    // });

@@ -1,0 +1,46 @@
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Times New Roman";
+    background-image: url("../src/images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}       
+
+.Profile
+{
+    float:left;
+    margin-left: 800px;
+    max-width: 500px;
+	padding: 0 0.5em;
+    text-shadow: 0 5px 10px rgba(255,255,255,1);
+	mix-blend-mode: normal;
+	box-shadow: 0 5px 10px rgba(255,255,255,1);
+	background: rgba(0,0,0,.1);
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.title-Profile
+{
+    color: #0f1f8a;
+	font-size: 45px;
+    text-shadow: 0px 5px 10px rgba(255,255,255,1);
+	mix-blend-mode:	normal;
+}
+
+.service-form
+{
+    width:300px;
+}
+
+.alldata
+{
+    text-shadow: 0 5px 10px rgba(255,255,255,1);
+	mix-blend-mode: normal;
+    box-shadow: 0 5px 10px rgba(255,255,255,1);
+	background: rgba(0,0,0,.1);
+    text-align: center;
+}

@@ -1,0 +1,63 @@
+.content-section-m
+{
+	margin: 1em;
+	max-width: 1030px;
+	padding: 0 0.5em;
+}
+
+.title-m
+{
+	margin: 0 auto;
+	padding: .55em;
+	color: #0f1f8a;
+	font-size: 45px;
+	text-align: center;
+	text-shadow: 0px 5px 10px rgba(255,255,255,1);
+	mix-blend-mode:	normal;
+	box-shadow: 0 5px 10px rgba(255,255,255,1);
+	background: rgba(0,0,0,.1);
+	align-items: center;
+}
+.profile-cards
+{
+	margin-top: 50px;
+	display: flex;
+	position: relative;
+}
+.profile-card
+{
+	width: 238px;
+	margin-left: 22px ;
+	color: #0f1f8a;
+	text-shadow: 0px 5px 10px rgba(255,255,255,1);
+	mix-blend-mode:	normal;
+	box-shadow: 0 5px 10px rgba(255,255,255,1);
+	background: rgba(0,0,0,.1);
+}
+
+.img-container
+{
+	position: relative;
+}
+
+.img-container img
+{
+	width: 238px;
+}
+
+.doctor
+{
+	font-size: 15px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.specialisation
+{
+	font-size: 22px;
+}
+.list
+{
+	font-size: 20px;
+	padding-bottom: 12px;
+}

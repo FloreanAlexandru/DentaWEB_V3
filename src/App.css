@@ -1,0 +1,143 @@
+*{
+	box-sizing: border-box;
+	font-family: Times New Roman;
+}
+
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Times New Roman";
+    background-image: url("../src/images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}       
+
+.navbar li 
+{
+	display: inline;
+}
+
+.navbar-logo
+{
+	margin-left: 50px;
+    float: left;
+}
+
+.navbar-items
+{
+	margin-top: 40px;
+	margin-right: 90px;
+	float: right;
+	text-align: left;
+}
+.navbar ul li a
+{
+	display: inline-block;
+	padding: .55em;
+	color:   #0f1f8a;
+	text-decoration: none;
+	text-shadow: 0px 5px 10px rgba(255,255,255,1);
+	mix-blend-mode:	normal;
+	box-shadow: 0 5px 10px rgba(255,255,255,1);
+	background: rgba(0,0,0,.2);
+}
+.navbar ul li a:hover
+{
+	background-color: rgba(255,255,255,.04);
+}
+
+.navbar
+{
+	text-align: left;
+	font-size: 2.0em;
+	font-weight: lighter;
+}
+
+.selected-lang{
+    cursor: pointer;
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    padding-right: 30px;
+    font-size: 22px;
+    width: 150px;
+}
+
+.selected-lang ol{
+    top:135px;
+}
+
+.selected-lang:before{
+    content: '';
+    display: block;
+    width: 32px;
+    height: 32px;
+    background-image: url(https://www.countryflags.io/ro/flat/32.png)
+}
+
+.lang-menu{
+    padding-top: 20px;
+}
+
+.lang-menu ol{
+    float: left;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #f8f8f8;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2); 
+    background-color: #fff;
+    border-radius: 5px;
+    display: none;
+    position: absolute;
+}
+
+.lang-menu ol li{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.lang-menu ol li a{
+    width: 155px;
+    padding: 5px 10px;
+    display: block;
+    font-size: 24px;
+    line-height: 1;
+}
+
+.lang-menu ol li a:before{
+    content: '';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin-right: 15px;
+    margin-bottom: 3px;
+    vertical-align: middle;
+}
+
+.lang-menu ol li a:hover{
+    background-color: #f2f2f2;
+}
+
+
+.de:before{
+    background-image: url(https://www.countryflags.io/de/flat/32.png);
+}
+
+.en:before{
+    background-image: url(https://www.countryflags.io/gb/flat/32.png);
+}
+
+.en{
+    text-decoration: none;
+}
+
+.de{
+    text-decoration: none;
+}
+
+.lang-menu:hover ol{
+    display: grid;
+}
